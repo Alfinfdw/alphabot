@@ -12,11 +12,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6281359053674']
-global.premium = ['6281359053674']
+global . pemilik  = [ '6283818229504' ]
+global . premi  = [ '6283818229504' ]
 global.ownernomer = '6281359053674'
-global.ownername = 'TanakaFuji'
-global.botname = 'alpha v1.0.0'
+global . nama     pemilik     diki   '
+global . nama bot = '「pisang」⚔⏤͟͟͞͞★参ᵇᵒᵗ '  
 global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
 global.ig = 'https://instagram/rangga_1532'
 global.region = 'Indonesia'
