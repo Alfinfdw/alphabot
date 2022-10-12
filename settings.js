@@ -15,14 +15,14 @@ global.APIKeys = {
 global . pemilik  = [ '6283818229504' ]
 global . premi  = [ '6283818229504' ]
 global.ownernomer = '6281359053674'
-global . nama     pemilik     diki   '
+global . nama       pemilik    'diki'
 global . nama bot = '「pisang」⚔⏤͟͟͞͞★参ᵇᵒᵗ '  
 global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
-global.ig = 'https://instagram/rangga_1532'
-global.region = 'Indonesia'
+global . ig     =     'https://instagram/ra_1532'
+global . wilayah  =  'Indonesia'
 global.sc = 'https://darkalphaxteam/Queen-Bixby-MD'
 global.myweb = 'https://youtube.com/channel/UCzaDkVfxEyTT37-1cls6UAw'
-global.packname = 'ALPHA WA BOT MD'
+global . nama       paket        =        'ALPHA WA BOT MD'
 global.author = 'Bot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
